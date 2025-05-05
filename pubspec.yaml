@@ -1,0 +1,17 @@
+name: freehand
+description: "A new Flutter project."
+version: 0.0.1
+homepage: https://github.com/keyur2maru/freehand
+
+environment:
+  sdk: ^3.8.0-171.0.dev
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
