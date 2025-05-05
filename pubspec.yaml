@@ -1,5 +1,5 @@
 name: freehand
-description: "A new Flutter project."
+description: "A Flutter port of perfect-freehand drawing logic, based on the Tldraw fork for smoother strokes."
 version: 0.0.1
 homepage: https://github.com/keyur2maru/freehand
 
